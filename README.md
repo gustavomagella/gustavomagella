@@ -8,15 +8,10 @@
 ### 👋🏼 Hi Everyone!? How's you going!? 🌹❤️
 
     🌩️ Cloud Security Architect at[IBM](https://www.ibm.com/);
-
     💼 Working in the technology field for over 15 years;
-
     🎸 Passionate about music (frustrated multi-instrumentalist), technology and communities!;
-
     🧠 Design Thinker and Problem Solver by nature;
-
     📚 Lifelong learner about Cybersecurity (Red Team and Blue Team) and Cloud Computing;
-
     🍀 Brazilian by Nature, Irish by Heart!! 🌍;
 
 ---
