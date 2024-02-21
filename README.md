@@ -7,12 +7,12 @@
 
 ### 👋🏼 &nbsp; Hi Everyone!? How's you going!? 🌹❤️
 
-&nbsp;&nbsp;&nbsp; 🌩️ Cloud Security Architect at [IBM](https://www.ibm.com/);`</br>`
-&nbsp;&nbsp;&nbsp; 💼 Working in the technology field for over 15 years;`</br>`
-&nbsp;&nbsp;&nbsp; 🎸 Passionate about music (frustrated multi-instrumentalist), technology and communities!;`</br>`
-&nbsp;&nbsp;&nbsp; 🧠 Design Thinker and Problem Solver by nature;`</br>`
-&nbsp;&nbsp;&nbsp; 📚 Lifelong learner about Cybersecurity (Red Team and Blue Team) and Cloud Computing;`</br>`
-&nbsp;&nbsp;&nbsp; 🍀 Brazilian by Nature, Irish by Heart!! 🌍;`</br>`
+&nbsp;&nbsp;&nbsp; 🌩️ Cloud Security Architect at [IBM](https://www.ibm.com/); `</br>`
+&nbsp;&nbsp;&nbsp; 💼 Working in the technology field for over 15 years; `</br>`
+&nbsp;&nbsp;&nbsp; 🎸 Passionate about music (frustrated multi-instrumentalist), technology and communities!; `</br>`
+&nbsp;&nbsp;&nbsp; 🧠 Design Thinker and Problem Solver by nature; `</br>`
+&nbsp;&nbsp;&nbsp; 📚 Lifelong learner about Cybersecurity (Red Team and Blue Team) and Cloud Computing; `</br>`
+&nbsp;&nbsp;&nbsp; 🍀 Brazilian by Nature, Irish by Heart!! 🌍; `</br>`
 `</br>`
 
 #### ⚙ &nbsp; Main Technological Domains
