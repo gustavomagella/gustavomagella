@@ -5,29 +5,29 @@
  <tr><td><a href="README_pt-br.md"><img src=".assets/icons/flag-br.png" height="25">[pt-br]</a></td></tr>
 </table>
 
-### 👋🏼 &nbsp; E aí seus trem bunitows!? Tudo bem com vocês? 🌹❤️
+### 👋🏼 &nbsp; Hi Everyone!? How's you going!? 🌹❤️
 
-&nbsp;&nbsp;&nbsp; 🌩️ Hoje, atuo como Cloud Security Architect na [IBM](https://www.ibm.com/); \
-&nbsp;&nbsp;&nbsp; 💼 Trabalhando na área da tecnologia há +15 anos; \
-&nbsp;&nbsp;&nbsp; 🎸 Apaixonado por música (multi-instrumentista frustrado), tecnologia e comunidades!; \
-&nbsp;&nbsp;&nbsp; 🧠 Design Thinker e Problem Solver por natureza; \
-&nbsp;&nbsp;&nbsp; 📚 Estudante eterno sobre Cybersecurity (Red Team e Blue Team) e Cloud Computing; \
-&nbsp;&nbsp;&nbsp; 🍀 Hoje, moro na Irlanda. Meu recanto e paraíso nesse Mundo! 🌍;
-</br>
+&nbsp;&nbsp;&nbsp; 🌩️ Cloud Security Architect at [IBM](https://www.ibm.com/);
+&nbsp;&nbsp;&nbsp; 💼 Working in the technology field for over 15 years;
+&nbsp;&nbsp;&nbsp; 🎸 Passionate about music (frustrated multi-instrumentalist), technology and communities!;
+&nbsp;&nbsp;&nbsp; 🧠 Design Thinker and Problem Solver by nature;
+&nbsp;&nbsp;&nbsp; 📚 Lifelong learner about Cybersecurity (Red Team and Blue Team) and Cloud Computing;
+&nbsp;&nbsp;&nbsp; 🍀 Brazilian by Nature, Irish by Heart!! 🌍;
+`</br>`
 
-#### ⚙ &nbsp; Principal Domínio Tecnológico.
+#### ⚙ &nbsp; Main Technological Domains
 
 <p align="left">
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Cloud Computing-blue"> <img src="https://img.shields.io/badge/Cybersecurity-darkgreen"> <img src="https://img.shields.io/badge/Threat Intelligence-pink"> <img src="https://img.shields.io/badge/DevSecOps-orange"> 
+    <img src="https://img.shields.io/badge/Cloud Computing-blue"> <img src="https://img.shields.io/badge/Cybersecurity-darkgreen"> <img src="https://img.shields.io/badge/Threat Intelligence-pink"> <img src="https://img.shields.io/badge/DevSecOps-orange"> 
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/(-darkred"> <img src="https://img.shields.io/badge/Red Team-darkred"> <img src="https://img.shields.io/badge/+-yellow"> <img src="https://img.shields.io/badge/Blue Team-darkblue"> <img src="https://img.shields.io/badge/)-darkblue"> <img src="https://img.shields.io/badge/=-purple"> <img src="https://img.shields.io/badge/Purple Team 💜-purple"> 
+    <img src="https://img.shields.io/badge/(-darkred"> <img src="https://img.shields.io/badge/Red Team-darkred"> <img src="https://img.shields.io/badge/+-yellow"> <img src="https://img.shields.io/badge/Blue Team-darkblue"> <img src="https://img.shields.io/badge/)-darkblue"> <img src="https://img.shields.io/badge/=-purple"> <img src="https://img.shields.io/badge/Purple Team 💜-purple"> 
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Architecture-darkorange"> <img src="https://img.shields.io/badge/Regulatory & Compliance-gray"> <img src="https://img.shields.io/badge/Design Thinking-blue">
+    <img src="https://img.shields.io/badge/Architecture-darkorange"> <img src="https://img.shields.io/badge/Regulatory & Compliance-gray"> <img src="https://img.shields.io/badge/Design Thinking-blue">
 </p>
 
 ---
 
-### 💬 &nbsp; Bora trocar uma idéia!? Me siga nas redes sociais!
+### 💬 &nbsp; Let's catch-up!? Follow me on social media!
 
 </br>
 <p align="center">
