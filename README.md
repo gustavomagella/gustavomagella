@@ -16,7 +16,7 @@
 
 ---
 
-⚙ Main Technological Domains
+### ⚙ Main Technological Domains
 
 <p align="left">
     <img src="https://img.shields.io/badge/Cloud Computing-blue"> <img src="https://img.shields.io/badge/Cybersecurity-darkgreen"> <img src="https://img.shields.io/badge/Threat Intelligence-pink"> <img src="https://img.shields.io/badge/DevSecOps-orange"> 
@@ -28,7 +28,7 @@
 
 ---
 
-### 💬 &nbsp; Let's catch-up!? Follow me on social media!
+### 💬 Let's catch-up!? Follow me on social media!
 
 </br>
 <p align="center">
