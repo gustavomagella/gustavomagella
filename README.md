@@ -5,21 +5,18 @@
  <tr><td><a href="README_pt-br.md"><img src=".assets/icons/flag-br.png" height="25">[pt-br]</a></td></tr>
 </table>
 
-### 👋🏼 &nbsp; Hi Everyone!? How's you going!? 🌹❤️
+### 👋🏼 Hi Everyone!? How's you going!? 🌹❤️
 
-🌩️ Cloud Security Architect at [IBM](https://www.ibm.com/);
+    🌩️ Cloud Security Architect at[IBM](https://www.ibm.com/);
+    💼 Working in the technology field for over 15 years;
+    🎸 Passionate about music (frustrated multi-instrumentalist), technology and communities!;
+    🧠 Design Thinker and Problem Solver by nature;
+    📚 Lifelong learner about Cybersecurity (Red Team and Blue Team) and Cloud Computing;
+    🍀 Brazilian by Nature, Irish by Heart!! 🌍;
 
-💼 Working in the technology field for over 15 years;
+---
 
-🎸 Passionate about music (frustrated multi-instrumentalist), technology and communities!;
-
-🧠 Design Thinker and Problem Solver by nature;
-
-📚 Lifelong learner about Cybersecurity (Red Team and Blue Team) and Cloud Computing;
-
-🍀 Brazilian by Nature, Irish by Heart!! 🌍;
-
-#### ⚙ &nbsp; Main Technological Domains
+⚙ Main Technological Domains
 
 <p align="left">
     <img src="https://img.shields.io/badge/Cloud Computing-blue"> <img src="https://img.shields.io/badge/Cybersecurity-darkgreen"> <img src="https://img.shields.io/badge/Threat Intelligence-pink"> <img src="https://img.shields.io/badge/DevSecOps-orange"> 
