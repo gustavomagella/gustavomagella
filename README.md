@@ -5,9 +5,9 @@
  <tr><td><a href="README_pt-br.md"><img src=".assets/icons/flag-br.png" height="25">[pt-br]</a></td></tr>
 </table>
 
-### 👋🏼 Hi Everyone!? How's you going!? 🌹❤️
+### 👋🏼 Hi there!? Wassup!? 🌹❤️
 
-    🌩️ Cloud Security Architect at[IBM](https://www.ibm.com/);
+    🌩️ I'm Cloud Security Architect at[IBM](https://www.ibm.com/);
     💼 Working in the technology field for over +16 years;
     🎸 Passionate about music (frustrated multi-instrumentalist), technology and communities!;
     🧠 Design Thinker and Problem Solver by nature;
